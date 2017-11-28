@@ -280,6 +280,7 @@ p, div {
 
 .pastry {
   width: 100%;
+  background-image: pink;
 
 }
 
@@ -287,4 +288,45 @@ p, div {
   height: 300px;
   width: 300px;
   text-align: center;
+}
+
+.textPastel {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 10px;
+
+}
+
+.pink {
+  background-color: pink;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.leftContact {
+  float: left;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 100px;
+  font-weight: bolder;
+}
+.leftContact:hover {
+  color: white;
+}
+
+.fa.fa-instagram, .fa.fa-phone {
+  font-size: 30px;
+  margin-left: 60px;
+  float: right;
+}
+
+.fa.fa-instagram {
+  margin-right: 100px;
+}
+
+.imgP {
+  border-radius: 100%;
+  width: 35px;
+  height: 35px;
 }
