@@ -266,14 +266,14 @@ p, div {
 
 .inicio a {
   text-decoration: none;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script';
   font-size: 30px;
   margin-right: 10px;
 }
 
 .inicialText {
   float: left;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bolder;
   margin-left: 50px;
 }
@@ -281,4 +281,10 @@ p, div {
 .pastry {
   width: 100%;
 
+}
+
+.pastel {
+  height: 300px;
+  width: 300px;
+  text-align: center;
 }
